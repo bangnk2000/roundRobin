@@ -23,8 +23,6 @@ int main(){
 	int at[n];
 	int bt[n];
 	int rt[n];
-	//dynamic array declaration using vector method of (STL)
-	//STL standard template library of C++
 
 	cout<<"Enter the Arrival time, Burst time for All the processes"<<endl;
 	for(i=0;i<n;i++)
